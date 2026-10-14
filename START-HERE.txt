@@ -1,0 +1,1 @@
+Pulse starter project. Run npm install, copy .env.example to .env.local, add API keys, then npm run dev.
